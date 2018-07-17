@@ -1,7 +1,7 @@
 var friends = [
     {
-      name: 'Don Rickles',
-      photo: 'https://static01.nyt.com/images/2017/04/07/arts/07rickles-obit-4-1491512344294/07rickles-obit-4-1491512344294-blog427.jpg',
+      name: 'Adam Sandler',
+      photo: 'https://m.media-amazon.com/images/M/MV5BMjQyNzM2MjM1Ml5BMl5BanBnXkFtZTcwMDE5NjI3Mg@@._V1_UY317_CR7,0,214,317_AL_.jpg',
       scores: [
         '1',
         '1',
@@ -16,8 +16,8 @@ var friends = [
       ]
     },
     {
-      name: 'Jeff Golblum',
-      photo: 'https://pmcdeadline2.files.wordpress.com/2017/04/rexfeatures_5886121s.jpg',
+      name: 'Selena Gomez',
+      photo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Selena_Gomez_-_Walmart_Soundcheck_Concert.jpg/492px-Selena_Gomez_-_Walmart_Soundcheck_Concert.jpg',
       scores: [
         '2',
         '3',
@@ -32,8 +32,8 @@ var friends = [
       ]
     },
     {
-      name: 'Tina Turner',
-      photo: 'http://images2.fanpop.com/images/photos/3000000/Tina-Turner-tina-turner-3033080-412-480.jpg',
+      name: 'Tim Tebow',
+      photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6UtArDnB4KcZC2xE_kxTn-N3iPTQCYlpy9NwfPfTV8o6WJe7O',
       scores: [
         '4',
         '4',
@@ -48,8 +48,8 @@ var friends = [
       ]
     },
     {
-      name: 'Bill Murray',
-      photo: 'http://sheamagazine.com/wp-content/uploads/2013/09/bill-murray.jpg',
+      name: 'Matthew McConaughey',
+      photo: 'https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTQyNjA5MzczMDc4NzU4NzI3/matthew-mcconaughey-gettyimages-589532902_1600jpg.jpg',
       scores: [
         '3',
         '4',
@@ -64,8 +64,8 @@ var friends = [
       ]
     },
     {
-      name: 'Hunter S. Thompson',
-      photo: 'http://www.shockmansion.com/wp-content/myimages/2017/07/Hunter-S-Thompson.jpg',
+      name: 'Adele',
+      photo: 'https://www.biography.com/.image/t_share/MTQzMjg0NTE1MDk0MTQ0NTgz/gettyimages-511229448jpg.jpg',
       scores: [
         '5',
         '5',
